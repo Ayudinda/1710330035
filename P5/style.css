@@ -1,0 +1,20 @@
+*{
+	color: aqua;
+	font-family: serif;
+}
+h2{
+	font-size: 40px;
+	color: black;
+	border: 8px solid pink;
+	font-family: sans-serif;
+}
+.coding{
+	background-color: grey;
+	font-family: "courier new", monospace;
+}
+.merah{
+	color: #F00;
+}
+.biru{
+	color: rgba(255, 0, 0, 0.5);
+}
